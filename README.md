@@ -38,8 +38,8 @@ The solution aims to:
 
 **Problem Statement Document**  
 The official hackathon problem statement can be accessed here:  
-[Open Problem Statement PDF](SSSIHL-M.Sc-Datascience_HTS_Hackathon problem statement.pdf)
----
+[Open Problem Statement PDF](./SSSIHL-M.Sc-Datascience_HTS_Hackathon%20problem%20statement.pdf)
+
 
 ## Data Source
 
