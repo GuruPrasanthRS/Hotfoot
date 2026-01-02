@@ -75,7 +75,7 @@ Hotfoot/
 │
 ├── outputs/                  # Final anomaly reports and summary tables
 │
-├── problem_statement.pdf     # Official project objectives and constraints
+├── SSSIHL-M.Sc-Datascience_HTS_Hackathon problem statement.pdf     # Official project objectives and constraints
 └── README.md                 # Project documentation
 ```
 Each folder represents a distinct stage in the analytical pipeline.
