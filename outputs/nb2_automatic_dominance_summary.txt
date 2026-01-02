@@ -1,0 +1,10 @@
+
+Macro Dominance Summary:
+
+• On average, the Top-3 banks account for 69.8% of total UPI volume.
+• The Top-10 banks account for 87.2% of system volume.
+• This indicates that dominance is highly concentrated.
+• 5 banks appear in the Top-5 for more than 60% of months, indicating structural dominance.
+
+Overall, the UPI ecosystem shows
+strong concentration risk.
